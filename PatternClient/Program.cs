@@ -11,6 +11,7 @@ namespace PatternClient
             Console.WriteLine("2. Factory method");
             Console.WriteLine("3. Adapter");
             Console.WriteLine("4. Facade");
+            Console.WriteLine("5. Decorator");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -33,6 +34,11 @@ namespace PatternClient
                 case 4:
                     var facadeTest = new FacadeTest();
                     facadeTest.Work();
+                    break;
+
+                case 5:
+                    var decoratorTest = new DecoratorTest();
+                    decoratorTest.Work();
                     break;
 
                 default:
