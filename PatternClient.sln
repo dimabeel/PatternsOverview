@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{BCA3E18F-F72B-42D5-BE83-9EB0433321AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{511ED440-7EAA-4E37-BF6E-5ACDB3BC45AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{511ED440-7EAA-4E37-BF6E-5ACDB3BC45AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{937A80C8-2023-473A-8615-C7A46B6FDDAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{511ED440-7EAA-4E37-BF6E-5ACDB3BC45AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511ED440-7EAA-4E37-BF6E-5ACDB3BC45AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511ED440-7EAA-4E37-BF6E-5ACDB3BC45AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937A80C8-2023-473A-8615-C7A46B6FDDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937A80C8-2023-473A-8615-C7A46B6FDDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937A80C8-2023-473A-8615-C7A46B6FDDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937A80C8-2023-473A-8615-C7A46B6FDDAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
