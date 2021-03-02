@@ -14,6 +14,7 @@ namespace PatternClient
             Console.WriteLine("5. Decorator");
             Console.WriteLine("6. Proxy");
             Console.WriteLine("7. Bridge");
+            Console.WriteLine("8. Composite");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -51,6 +52,11 @@ namespace PatternClient
                 case 7:
                     var bridgeTest = new BridgeTest();
                     bridgeTest.Work();
+                    break;
+
+                case 8:
+                    var compositeTest = new CompositeTest();
+                    compositeTest.Work();
                     break;
 
                 default:
