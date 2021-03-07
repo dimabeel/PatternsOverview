@@ -16,6 +16,7 @@
     <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj" />
     <ProjectReference Include="..\Iterator\Iterator.csproj" />
     <ProjectReference Include="..\Proxy\Proxy.csproj" />
+    <ProjectReference Include="..\Observer\Observer.csproj" />
   </ItemGroup>
 
 </Project>

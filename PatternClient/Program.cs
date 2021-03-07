@@ -17,6 +17,7 @@ namespace PatternClient
             Console.WriteLine("8. Composite");
             Console.WriteLine("9. Builder");
             Console.WriteLine("10. Iterator");
+            Console.WriteLine("11. Observer");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -69,6 +70,11 @@ namespace PatternClient
                 case 10:
                     var iteratorTest = new IteratorTest();
                     iteratorTest.Work();
+                    break;
+
+                case 11:
+                    var observerTest = new ObserverTest();
+                    observerTest.Work();
                     break;
 
                 default:
