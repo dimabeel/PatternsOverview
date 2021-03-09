@@ -18,6 +18,7 @@
     <ProjectReference Include="..\Proxy\Proxy.csproj" />
     <ProjectReference Include="..\Observer\Observer.csproj" />
     <ProjectReference Include="..\Strategy\Strategy.csproj" />
+    <ProjectReference Include="..\Visitor\Visitor.csproj" />
   </ItemGroup>
 
 </Project>
