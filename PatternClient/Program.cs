@@ -20,6 +20,7 @@ namespace PatternClient
             Console.WriteLine("11. Observer");
             Console.WriteLine("12. Strategy");
             Console.WriteLine("13. Visitor");
+            Console.WriteLine("14. State");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -87,6 +88,11 @@ namespace PatternClient
                 case 13:
                     var visitorTest = new VisitorTest();
                     visitorTest.Work();
+                    break;
+
+                case 14:
+                    var stateTest = new StateTest();
+                    stateTest.Work();
                     break;
 
                 default:
