@@ -22,6 +22,7 @@ namespace PatternClient
             Console.WriteLine("13. Visitor");
             Console.WriteLine("14. State");
             Console.WriteLine("15. Chain of responsibility");
+            Console.WriteLine("16. Template method");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -99,6 +100,11 @@ namespace PatternClient
                 case 15:
                     var chainOfResponsibilityTest = new ChainOfResponsibilityTest();
                     chainOfResponsibilityTest.Work();
+                    break;
+
+                case 16:
+                    var templateMethodTest = new TemplateMethodTest();
+                    templateMethodTest.Work();
                     break;
 
                 default:
