@@ -23,6 +23,7 @@
     <ProjectReference Include="..\ChainOfResponsibility\ChainOfResponsibility.csproj" />
     <ProjectReference Include="..\TemplateMethod\TemplateMethod.csproj" />
     <ProjectReference Include="..\Controller\Controller.csproj" />
+    <ProjectReference Include="..\Command\Command.csproj" />
   </ItemGroup>
 
 </Project>
