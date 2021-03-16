@@ -24,6 +24,7 @@
     <ProjectReference Include="..\TemplateMethod\TemplateMethod.csproj" />
     <ProjectReference Include="..\Controller\Controller.csproj" />
     <ProjectReference Include="..\Command\Command.csproj" />
+    <ProjectReference Include="..\Memento\Memento.csproj" />
   </ItemGroup>
 
 </Project>

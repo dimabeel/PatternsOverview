@@ -25,6 +25,7 @@ namespace PatternClient
             Console.WriteLine("16. Template method");
             Console.WriteLine("17. Controller");
             Console.WriteLine("18. Command");
+            Console.WriteLine("19. Memento");
             int.TryParse(Console.ReadLine(), out int patternNum);
 
             switch(patternNum)
@@ -117,6 +118,11 @@ namespace PatternClient
                 case 18:
                     var commandTest = new CommandTest();
                     commandTest.Work();
+                    break;
+
+                case 19:
+                    var mementoTest = new MementoTest();
+                    mementoTest.Work();
                     break;
 
                 default:

@@ -4,7 +4,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>190</x>
+      <x>400</x>
       <y>170</y>
       <w>330</w>
       <h>150</h>
@@ -20,7 +20,7 @@ Iterator
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>540</x>
+      <x>750</x>
       <y>30</y>
       <w>100</w>
       <h>30</h>
@@ -31,7 +31,7 @@ Iterator
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>200</x>
+      <x>410</x>
       <y>390</y>
       <w>320</w>
       <h>150</h>
@@ -51,7 +51,7 @@ ConcreteIterator
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>650</x>
+      <x>860</x>
       <y>210</y>
       <w>270</w>
       <h>70</h>
@@ -65,7 +65,7 @@ IterableCollection
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>650</x>
+      <x>860</x>
       <y>410</y>
       <w>270</w>
       <h>120</h>
@@ -81,7 +81,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>770</x>
+      <x>980</x>
       <y>270</y>
       <w>30</w>
       <h>160</h>
@@ -92,7 +92,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>370</x>
+      <x>580</x>
       <y>310</y>
       <w>30</w>
       <h>100</h>
@@ -103,7 +103,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
+      <x>720</x>
       <y>450</y>
       <w>160</w>
       <h>30</h>
@@ -114,7 +114,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
+      <x>720</x>
       <y>250</y>
       <w>160</w>
       <h>30</h>
@@ -125,7 +125,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
+      <x>570</x>
       <y>40</y>
       <w>200</w>
       <h>150</h>
@@ -136,7 +136,7 @@ ConcreteIterableCollection
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>40</y>
       <w>170</w>
       <h>190</h>
@@ -147,7 +147,7 @@ ConcreteIterableCollection
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>0</y>
       <w>750</w>
       <h>550</h>
@@ -159,7 +159,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>200</x>
+      <x>410</x>
       <y>610</y>
       <w>230</w>
       <h>60</h>
@@ -172,7 +172,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>590</x>
+      <x>800</x>
       <y>610</y>
       <w>270</w>
       <h>110</h>
@@ -189,7 +189,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>210</x>
+      <x>420</x>
       <y>770</y>
       <w>100</w>
       <h>30</h>
@@ -200,7 +200,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>730</x>
+      <x>940</x>
       <y>760</y>
       <w>130</w>
       <h>30</h>
@@ -211,7 +211,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>250</x>
+      <x>460</x>
       <y>660</y>
       <w>80</w>
       <h>130</h>
@@ -222,7 +222,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>710</x>
+      <x>920</x>
       <y>710</y>
       <w>100</w>
       <h>70</h>
@@ -233,7 +233,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>320</x>
+      <x>530</x>
       <y>770</y>
       <w>100</w>
       <h>30</h>
@@ -244,7 +244,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
+      <x>510</x>
       <y>660</y>
       <w>90</w>
       <h>130</h>
@@ -255,7 +255,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>630</x>
       <y>640</y>
       <w>190</w>
       <h>30</h>
@@ -266,7 +266,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>590</x>
+      <x>800</x>
       <y>760</y>
       <w>130</w>
       <h>30</h>
@@ -277,7 +277,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>640</x>
+      <x>850</x>
       <y>710</y>
       <w>100</w>
       <h>70</h>
@@ -288,7 +288,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>450</x>
+      <x>660</x>
       <y>900</y>
       <w>100</w>
       <h>30</h>
@@ -299,7 +299,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
+      <x>750</x>
       <y>780</y>
       <w>140</w>
       <h>150</h>
@@ -310,7 +310,7 @@ Iterator</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>250</x>
+      <x>460</x>
       <y>790</y>
       <w>220</w>
       <h>140</h>
@@ -321,7 +321,7 @@ Iterator</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>290</x>
+      <x>500</x>
       <y>820</y>
       <w>360</w>
       <h>70</h>
@@ -335,7 +335,7 @@ every observer has to decide about processing of event</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>570</y>
       <w>750</w>
       <h>380</h>
@@ -347,7 +347,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>1040</y>
       <w>270</w>
       <h>60</h>
@@ -360,7 +360,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>240</x>
+      <x>450</x>
       <y>1030</y>
       <w>260</w>
       <h>80</h>
@@ -375,7 +375,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>660</x>
+      <x>870</x>
       <y>1180</y>
       <w>110</w>
       <h>30</h>
@@ -386,7 +386,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>790</x>
+      <x>1000</x>
       <y>1180</y>
       <w>110</w>
       <h>30</h>
@@ -397,7 +397,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>290</x>
+      <x>500</x>
       <y>1170</y>
       <w>150</w>
       <h>70</h>
@@ -410,7 +410,7 @@ Observer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
+      <x>700</x>
       <y>1060</y>
       <w>160</w>
       <h>30</h>
@@ -421,7 +421,7 @@ Observer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
+      <x>570</x>
       <y>1100</y>
       <w>30</w>
       <h>90</h>
@@ -432,7 +432,7 @@ Observer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>700</x>
+      <x>910</x>
       <y>1090</y>
       <w>80</w>
       <h>110</h>
@@ -443,7 +443,7 @@ Observer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>750</x>
+      <x>960</x>
       <y>1090</y>
       <w>110</w>
       <h>110</h>
@@ -454,7 +454,7 @@ Observer</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>470</x>
+      <x>680</x>
       <y>1120</y>
       <w>180</w>
       <h>120</h>
@@ -471,7 +471,7 @@ to use strategy</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>460</x>
+      <x>670</x>
       <y>1250</y>
       <w>200</w>
       <h>70</h>
@@ -483,7 +483,7 @@ alghoritms to calculating.</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>510</x>
+      <x>720</x>
       <y>1390</y>
       <w>100</w>
       <h>30</h>
@@ -494,7 +494,7 @@ alghoritms to calculating.</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
+      <x>550</x>
       <y>1230</y>
       <w>190</w>
       <h>190</h>
@@ -505,7 +505,7 @@ alghoritms to calculating.</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>600</x>
+      <x>810</x>
       <y>1250</y>
       <w>200</w>
       <h>170</h>
@@ -516,7 +516,7 @@ alghoritms to calculating.</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>720</x>
+      <x>930</x>
       <y>1220</y>
       <w>130</w>
       <h>40</h>
@@ -528,7 +528,7 @@ only one</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>960</y>
       <w>750</w>
       <h>500</h>
@@ -540,7 +540,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>430</x>
+      <x>640</x>
       <y>1770</y>
       <w>100</w>
       <h>30</h>
@@ -551,7 +551,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>200</x>
+      <x>410</x>
       <y>1500</y>
       <w>280</w>
       <h>70</h>
@@ -565,7 +565,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>200</x>
+      <x>410</x>
       <y>1630</y>
       <w>100</w>
       <h>30</h>
@@ -577,7 +577,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
+      <x>590</x>
       <y>1630</y>
       <w>100</w>
       <h>30</h>
@@ -589,7 +589,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>1500</y>
       <w>280</w>
       <h>70</h>
@@ -602,7 +602,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>1640</y>
       <w>120</w>
       <h>30</h>
@@ -613,7 +613,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>760</x>
+      <x>970</x>
       <y>1640</y>
       <w>120</w>
       <h>30</h>
@@ -624,7 +624,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>470</x>
+      <x>680</x>
       <y>1520</y>
       <w>160</w>
       <h>30</h>
@@ -635,7 +635,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>690</x>
+      <x>900</x>
       <y>1560</y>
       <w>70</w>
       <h>100</h>
@@ -646,7 +646,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>730</x>
+      <x>940</x>
       <y>1560</y>
       <w>70</w>
       <h>100</h>
@@ -657,7 +657,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>480</x>
       <y>1560</y>
       <w>90</w>
       <h>90</h>
@@ -668,7 +668,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
+      <x>540</x>
       <y>1560</y>
       <w>110</w>
       <h>90</h>
@@ -679,7 +679,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>470</x>
+      <x>680</x>
       <y>1540</y>
       <w>160</w>
       <h>130</h>
@@ -690,7 +690,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>470</x>
+      <x>680</x>
       <y>1540</y>
       <w>370</w>
       <h>170</h>
@@ -701,7 +701,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
+      <x>530</x>
       <y>1710</y>
       <w>130</w>
       <h>100</h>
@@ -712,7 +712,7 @@ Strategy</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>520</x>
+      <x>730</x>
       <y>1540</y>
       <w>410</w>
       <h>270</h>
@@ -723,7 +723,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>270</x>
+      <x>480</x>
       <y>1670</y>
       <w>140</w>
       <h>50</h>
@@ -734,7 +734,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>480</x>
+      <x>690</x>
       <y>1720</y>
       <w>290</w>
       <h>30</h>
@@ -745,7 +745,7 @@ Strategy</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>1470</y>
       <w>750</w>
       <h>350</h>
@@ -757,7 +757,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>1870</y>
       <w>160</w>
       <h>100</h>
@@ -774,7 +774,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>280</x>
+      <x>490</x>
       <y>1890</y>
       <w>190</w>
       <h>110</h>
@@ -791,7 +791,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>560</x>
+      <x>770</x>
       <y>2030</y>
       <w>120</w>
       <h>30</h>
@@ -802,7 +802,7 @@ Visitor</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
+      <x>670</x>
       <y>1920</y>
       <w>190</w>
       <h>30</h>
@@ -813,7 +813,7 @@ Visitor</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>1960</y>
       <w>100</w>
       <h>90</h>
@@ -824,7 +824,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>2070</y>
       <w>120</w>
       <h>30</h>
@@ -835,7 +835,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>700</x>
+      <x>910</x>
       <y>2030</y>
       <w>120</w>
       <h>30</h>
@@ -846,7 +846,7 @@ Visitor</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
+      <x>890</x>
       <y>1960</y>
       <w>30</w>
       <h>130</h>
@@ -857,7 +857,7 @@ Visitor</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
+      <x>890</x>
       <y>1960</y>
       <w>100</w>
       <h>90</h>
@@ -868,7 +868,7 @@ Visitor</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>1830</y>
       <w>750</w>
       <h>310</h>
@@ -880,7 +880,7 @@ State</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>550</x>
+      <x>760</x>
       <y>2020</y>
       <w>290</w>
       <h>90</h>
@@ -892,7 +892,7 @@ State</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
+      <x>670</x>
       <y>1960</y>
       <w>110</w>
       <h>80</h>
@@ -903,7 +903,7 @@ State</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>310</x>
+      <x>520</x>
       <y>2060</y>
       <w>100</w>
       <h>30</h>
@@ -914,7 +914,7 @@ State</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
+      <x>560</x>
       <y>1990</y>
       <w>30</w>
       <h>90</h>
@@ -925,7 +925,7 @@ State</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>400</x>
+      <x>610</x>
       <y>2070</y>
       <w>170</w>
       <h>30</h>
@@ -936,7 +936,7 @@ State</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>350</x>
+      <x>560</x>
       <y>2320</y>
       <w>100</w>
       <h>30</h>
@@ -947,7 +947,7 @@ State</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>2200</y>
       <w>260</w>
       <h>90</h>
@@ -962,7 +962,7 @@ IHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>2330</y>
       <w>260</w>
       <h>80</h>
@@ -977,7 +977,7 @@ IHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>580</x>
+      <x>790</x>
       <y>2460</y>
       <w>140</w>
       <h>30</h>
@@ -988,7 +988,7 @@ IHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>760</x>
+      <x>970</x>
       <y>2460</y>
       <w>140</w>
       <h>30</h>
@@ -999,7 +999,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
+      <x>750</x>
       <y>2240</y>
       <w>90</w>
       <h>170</h>
@@ -1010,7 +1010,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>640</x>
+      <x>850</x>
       <y>2400</y>
       <w>100</w>
       <h>80</h>
@@ -1021,7 +1021,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>770</x>
+      <x>980</x>
       <y>2400</y>
       <w>80</w>
       <h>80</h>
@@ -1032,7 +1032,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>730</x>
+      <x>940</x>
       <y>2280</y>
       <w>30</w>
       <h>70</h>
@@ -1043,7 +1043,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
+      <x>650</x>
       <y>2210</y>
       <w>190</w>
       <h>150</h>
@@ -1054,7 +1054,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>400</x>
+      <x>610</x>
       <y>2340</y>
       <w>270</w>
       <h>190</h>
@@ -1065,7 +1065,7 @@ IHandler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>400</x>
+      <x>610</x>
       <y>2340</y>
       <w>450</w>
       <h>200</h>
@@ -1076,7 +1076,7 @@ IHandler
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>190</x>
+      <x>400</x>
       <y>2160</y>
       <w>280</w>
       <h>150</h>
@@ -1089,7 +1089,7 @@ like observer in Observer pattern).</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>2150</y>
       <w>750</w>
       <h>380</h>
@@ -1101,7 +1101,7 @@ Chain of responsibility</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>540</x>
+      <x>750</x>
       <y>2580</y>
       <w>170</w>
       <h>150</h>
@@ -1121,7 +1121,7 @@ Chain of responsibility</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
+      <x>630</x>
       <y>2770</y>
       <w>170</w>
       <h>110</h>
@@ -1136,7 +1136,7 @@ Chain of responsibility</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>2770</y>
       <w>170</w>
       <h>110</h>
@@ -1151,7 +1151,7 @@ Chain of responsibility</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>250</x>
+      <x>460</x>
       <y>2620</y>
       <w>260</w>
       <h>80</h>
@@ -1165,7 +1165,7 @@ never repeat in inherited classes</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
+      <x>700</x>
       <y>2720</y>
       <w>140</w>
       <h>70</h>
@@ -1176,7 +1176,7 @@ never repeat in inherited classes</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>600</x>
+      <x>810</x>
       <y>2720</y>
       <w>140</w>
       <h>70</h>
@@ -1187,7 +1187,7 @@ never repeat in inherited classes</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>180</x>
+      <x>390</x>
       <y>2540</y>
       <w>750</w>
       <h>370</h>
@@ -1199,7 +1199,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>730</x>
+      <x>940</x>
       <y>2550</y>
       <w>190</w>
       <h>200</h>
@@ -1221,7 +1221,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>610</x>
+      <x>820</x>
       <y>2970</y>
       <w>180</w>
       <h>60</h>
@@ -1234,7 +1234,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
+      <x>630</x>
       <y>3140</y>
       <w>120</w>
       <h>90</h>
@@ -1247,7 +1247,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
+      <x>630</x>
       <y>3050</y>
       <w>120</w>
       <h>50</h>
@@ -1260,7 +1260,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
+      <x>630</x>
       <y>2970</y>
       <w>120</w>
       <h>50</h>
@@ -1273,7 +1273,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>600</x>
+      <x>810</x>
       <y>3060</y>
       <w>210</w>
       <h>170</h>
@@ -1293,7 +1293,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>190</x>
+      <x>400</x>
       <y>3030</y>
       <w>160</w>
       <h>70</h>
@@ -1308,7 +1308,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
+      <x>550</x>
       <y>2990</y>
       <w>100</w>
       <h>100</h>
@@ -1319,7 +1319,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
+      <x>550</x>
       <y>3060</y>
       <w>100</w>
       <h>30</h>
@@ -1330,7 +1330,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
+      <x>550</x>
       <y>3060</y>
       <w>100</w>
       <h>130</h>
@@ -1341,7 +1341,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>690</x>
+      <x>900</x>
       <y>3020</y>
       <w>30</w>
       <h>60</h>
@@ -1352,7 +1352,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>740</x>
       <y>2980</y>
       <w>200</w>
       <h>310</h>
@@ -1363,7 +1363,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>740</x>
       <y>3070</y>
       <w>200</w>
       <h>220</h>
@@ -1374,7 +1374,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>740</x>
       <y>3170</y>
       <w>200</w>
       <h>120</h>
@@ -1385,7 +1385,7 @@ Template method</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>260</x>
+      <x>470</x>
       <y>2920</y>
       <w>470</w>
       <h>130</h>
@@ -1397,7 +1397,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>170</x>
+      <x>380</x>
       <y>3190</y>
       <w>230</w>
       <h>90</h>
@@ -1412,7 +1412,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>830</x>
+      <x>1040</x>
       <y>2990</y>
       <w>230</w>
       <h>290</h>
@@ -1439,7 +1439,7 @@ Template method</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>160</x>
+      <x>370</x>
       <y>2920</y>
       <w>910</w>
       <h>370</h>
@@ -1451,7 +1451,7 @@ Controller</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>700</x>
+      <x>910</x>
       <y>3720</y>
       <w>200</w>
       <h>50</h>
@@ -1463,7 +1463,7 @@ receiver.DoSmth(parameters)</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>760</x>
+      <x>970</x>
       <y>3620</y>
       <w>190</w>
       <h>90</h>
@@ -1480,7 +1480,7 @@ receiver.DoSmth(parameters)</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>840</x>
       <y>3640</y>
       <w>110</w>
       <h>50</h>
@@ -1493,7 +1493,7 @@ receiver.DoSmth(parameters)</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>350</x>
+      <x>560</x>
       <y>3720</y>
       <w>200</w>
       <h>30</h>
@@ -1504,7 +1504,7 @@ receiver.DoSmth(parameters)</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>400</x>
+      <x>610</x>
       <y>3600</y>
       <w>190</w>
       <h>110</h>
@@ -1521,7 +1521,7 @@ IInvoker
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>780</x>
+      <x>990</x>
       <y>3550</y>
       <w>90</w>
       <h>90</h>
@@ -1532,7 +1532,7 @@ IInvoker
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>250</x>
+      <x>460</x>
       <y>3300</y>
       <w>750</w>
       <h>480</h>
@@ -1544,7 +1544,7 @@ Command</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
+      <x>890</x>
       <y>3550</y>
       <w>130</w>
       <h>110</h>
@@ -1555,7 +1555,7 @@ Command</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>580</x>
+      <x>790</x>
       <y>3540</y>
       <w>180</w>
       <h>150</h>
@@ -1566,7 +1566,7 @@ Command</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>740</x>
+      <x>950</x>
       <y>3490</y>
       <w>100</w>
       <h>70</h>
@@ -1580,7 +1580,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
+      <x>540</x>
       <y>3520</y>
       <w>430</w>
       <h>100</h>
@@ -1591,7 +1591,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
+      <x>780</x>
       <y>3460</y>
       <w>350</w>
       <h>180</h>
@@ -1602,7 +1602,7 @@ ICommand
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>490</x>
+      <x>700</x>
       <y>3450</y>
       <w>90</w>
       <h>30</h>
@@ -1613,7 +1613,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
+      <x>490</x>
       <y>3460</y>
       <w>230</w>
       <h>160</h>
@@ -1624,7 +1624,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>740</x>
       <y>3400</y>
       <w>30</w>
       <h>70</h>
@@ -1635,7 +1635,7 @@ ICommand
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>470</x>
+      <x>680</x>
       <y>3330</y>
       <w>150</w>
       <h>80</h>
@@ -1650,7 +1650,7 @@ IReceiver
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>260</x>
+      <x>470</x>
       <y>3600</y>
       <w>100</w>
       <h>30</h>
@@ -1662,7 +1662,7 @@ IReceiver
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
+      <x>490</x>
       <y>3620</y>
       <w>140</w>
       <h>70</h>
@@ -1673,7 +1673,7 @@ IReceiver
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>310</x>
+      <x>520</x>
       <y>3490</y>
       <w>270</w>
       <h>70</h>
@@ -1681,6 +1681,228 @@ IReceiver
     <panel_attributes>In client:
 Icommand command = new CommandA();
 Ivoker.SetCommend(command)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>480</x>
+      <y>3880</y>
+      <w>170</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Originator
+--
+- state
+--
++ Save() : Memento
++ Restore(Memento m)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>730</x>
+      <y>3890</y>
+      <w>170</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Memento
+--
+- state
+--
+- Memento(state)
+- GetState() : state</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1000</x>
+      <y>3800</y>
+      <w>220</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Caretaker
+--
+- originator
+- stateHistory : Stack&lt;Memento&gt;
+--
++ Caretaker(originator)
++ DoSmth()
++ Undo()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>890</x>
+      <y>3860</y>
+      <w>130</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>110.0;10.0;60.0;10.0;60.0;80.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>640</x>
+      <y>3930</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>450</x>
+      <y>3850</y>
+      <w>480</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=.
+Originator has inner Memento with private fields</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>1000</x>
+      <y>3930</y>
+      <w>210</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Undo():
+    m = stateHistory.Pop();
+    originator.restore(m)
+
+DoSmth():
+    m = originator.Save()
+    stateHistory.Push(m)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>440</x>
+      <y>3790</y>
+      <w>790</w>
+      <h>570</h>
+    </coordinates>
+    <panel_attributes>lt=.
+Memento</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>980</x>
+      <y>4090</y>
+      <w>220</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Caretaker
+--
+- originator
+- stateHistory : Stack&lt;Memento&gt;
+--
++ Caretaker(originator)
++ DoSmth()
++ Undo()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>750</x>
+      <y>4130</y>
+      <w>170</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IMemento</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>500</x>
+      <y>4210</y>
+      <w>170</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Originator
+--
+- state
+--
++ Save() : Memento
++ Restore(Memento m)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>750</x>
+      <y>4220</y>
+      <w>170</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>ConcreteMemento
+--
+- state
+--
++ Memento(state)
++ GetState() : state</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>910</x>
+      <y>4150</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>830</x>
+      <y>4170</y>
+      <w>30</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>660</x>
+      <y>4270</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>500</x>
+      <y>4080</y>
+      <w>210</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>It has to be empty IMemento
+becuase carataker has to know
+nothing about inner structure
+of memento</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
